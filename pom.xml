@@ -70,13 +70,14 @@
 		</dependency>
 
 	</dependencies>
+	<!--  
       <distributionManagement>
           <snapshotRepository>
                <id>nexus</id>
               <name>nexusrepo</name>
-              <url>http://3.228.7.4:8081/repository/nexustest/</url>
+              <url></url>
          </snapshotRepository>
-      </distributionManagement>
+      </distributionManagement> -->
            <build>
 		<finalName>AccountLogin</finalName>
 		<plugins>
